@@ -1,0 +1,41 @@
+.boton1 {
+    background-color: rgb(98, 96, 221);
+}
+
+.boton2 {
+    background-color: rgb(110, 182, 77);
+}
+
+.boton3 {
+    background-color: rgb(207, 85, 85);
+}
+
+.btn:disabled {
+    opacity: 1;
+}
+
+.text {
+    color: white;
+    font-weight: 500;
+}
+
+#textoDeposito {
+    color: red;
+}
+
+#textoRetirar {
+    color: red;
+}
+
+#textoRegresar {
+    color: red;
+    font-weight: 500;
+}
+
+.textButton {
+    font-weight: 500;
+}
+
+.hide {
+    display: none;
+}

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/fe13208227.js" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="./assets/cajeroIcon.png">
+    <title>Cajero automatico (Login)</title>
+</head>
+
+<body>
+
+    <!-- NAV -->
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container-fluid d-flex justify-content-center">
+            <a class="navbar-brand" href="#">
+                <i class="fas fa-piggy-bank"></i>
+                <span class="logoText">
+                    Tina Bank
+                </span>
+            </a>
+        </div>
+    </nav>
+
+    <!-- Bienvenida -->
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-12 d-flex justify-content-center">
+                <p class="fs-2 fw-bold"> Bienvenido(a) </p>
+            </div>
+
+            <div class="col-12 d-flex justify-content-center">
+                <p class="fs-5"> Ingresa tus datos para acceder a tu cuenta</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Inputs Login -->
+    <div class="container">
+        <div class="row d-flex justify-content-center">
+            <div class="col-8 shadow p-3 mb-3 bg-body rounded">
+                <div class="card text-center">
+                    <div class="card-header card1">
+                        <span class="fs-6 text"> Usuario </span>
+                    </div>
+                    <div class="card-body">
+                        <div class="input flex-nowrap">
+                            <span class="input-text"> </span>
+                            <input type="text" class="form-control" id="user">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row d-flex justify-content-center">
+            <div class="col-8 shadow p-3 mb-2 bg-body rounded">
+                <div class="card text-center">
+                    <div class="card-header card2">
+                        <span class="fs-6 text"> Contraseña </span>
+                    </div>
+                    <div class="card-body">
+                        <div class="input flex-nowrap">
+                            <span class="input-text"> </span>
+                            <input type="password" class="form-control" id="password"">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Boton -->
+        <div class="row d-flex justify-content-center">
+            <div class="col-8 shadow p-3 mb-5 bg-body rounded">
+                <div class="card text-center">
+                    <div class="d-grid gap-2">
+                        <button type="button" class="btn btn-dark text" onclick="login()"> Acceder </button>
+                    </div>
+                    <div id="error">
+                        <span id="errorLogin"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Fotter -->
+    <div class="container">
+        <footer class="py-3 my-4">
+            <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+            </ul>
+            <p class="text-center text-muted">© 2022 TinaBank, Inc.</p>
+        </footer>
+    </div>
+
+    <!-- bootstrap Javascrip -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
+    </script>
+    <script src="index.js"></script>
+</body>
+
+</html>

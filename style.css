@@ -1,0 +1,19 @@
+.mensajeErrorLogin {
+    color: red;
+    font-weight: 500;
+}
+
+.card1 {
+    background-color: rgb(62, 161, 115);
+    font-weight: 600;
+}
+
+.card2 {
+    background-color: rgb(176, 112, 212);
+    font-weight: 600;
+}
+
+.text {
+    color: white;
+    font-weight: 500;
+}
