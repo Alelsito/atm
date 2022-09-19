@@ -56,20 +56,20 @@ let abel = ["Abel", "Abelito", "pueblaFC", 3000];
 ### Screenshot
 
 1. **Entering the cashier**
-![](./assets/screenshots/Cajero-automatico-(Login).png)
+![](./assets/screenshots/Cajero-automatico-Login.png)
 
 2. **After log in**
 - *Opciones* (options)
-![](./assets/screenshots/Cajero-automatico-(MainPage).png
+![](./assets/screenshots/Cajero-automatico-MainPage.png)
 
 - *Consultar saldo* (Check balance)
-![](./assets/screenshots/Cajero-automatico-(MainPage)-Consultar%20saldo.png)
+![](./assets/screenshots/Cajero-automatico-MainPage-Consultar-saldo.png)
 
 - *Deposito* (enter amount)
-![](./assets/screenshots/Cajero-automatico-(MainPage)-Deposito.png)
+![](./assets/screenshots/Cajero-automatico-MainPage-Deposito.png)
 
 - *Retiro* (Withdraw Amount)
-![](./assets/screenshots/Cajero-automatico-(MainPage)-Retiro.png)
+![](./assets/screenshots/Cajero-automatico-MainPage-Retiro.png)
 
 ### Links
 
