@@ -1,6 +1,6 @@
 # Dev.f - ATM
 
-This is a solution to the project ✨ ATM ✨ of the [Kata JavaScript](https://www.devf.la/master/encoding/mx).\
+This is a solution to the project ✨ ATM ✨ of the [Kata JavaScript (dev.f)](https://www.devf.la/master/encoding/mx).\
 [Dev.f](https://www.devf.la/) offers an innovative solution to educational inclusion with EdTech programs that help people become software developers and obtain technological skills in order to obtain high-quality job opportunities in an agile and accessible way.
 
 ## Table of contents
