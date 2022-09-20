@@ -84,6 +84,7 @@ let abel = ["Abel", "Abelito", "pueblaFC", 3000];
 - CSS
 - JS
 - [Bootstrap](https://getbootstrap.com/) - For styles
+- [FontAwesome](https://fontawesome.com/) - For icons
 
 ### Skills
 
