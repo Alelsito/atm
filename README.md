@@ -7,7 +7,7 @@ This is a solution to the project ✨ ATM ✨ of the [Kata JavaScript (dev.f)](h
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [How to use it](#how-to-use-it)
+  - [How to interact (website)](#how-to-interact-with-the-website)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -21,7 +21,7 @@ This is a solution to the project ✨ ATM ✨ of the [Kata JavaScript (dev.f)](h
 
 Create a web application with JavaScript where we simulate the interaction with an ATM.
 
-### How to use it
+### How to interact with the website
 
 1. Upon entering the cashier, you can use the next accounts:
 
