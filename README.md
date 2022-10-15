@@ -1,4 +1,4 @@
-# Dev.f - ATM
+# Dev.f - ATM 🏧
 
 This is a solution to the project ✨ ATM ✨ of the [Kata JavaScript (dev.f)](https://www.devf.la/master/encoding/mx).\
 [Dev.f](https://www.devf.la/) offers an innovative solution to educational inclusion with EdTech programs that help people become software developers and obtain technological skills in order to obtain high-quality job opportunities in an agile and accessible way.
@@ -73,7 +73,7 @@ let abel = ["Abel", "Abelito", "pueblaFC", 3000];
 
 ### Links
 
-- GitHub Repository: [cajero-automatico-github](https://github.com/Alelsito/cajero-automatico)
+- GitHub Repository: [atm-github](https://github.com/Alelsito/atm)
 - Live Site URL: [cajero-automatico-netlify](https://cajero-automatico.netlify.app/)
 
 ## My process
@@ -88,9 +88,10 @@ let abel = ["Abel", "Abelito", "pueblaFC", 3000];
 
 ### Skills
 
-- localStorage
+- [LocalStorage](https://es.javascript.info/localstorage)
 - Handling forms and events
 
 ## Author
 
 - Github - [@Alelsito](https://github.com/Alelsito)
+- LinkdIn - [Hugo Alejandro López Blanco](https://www.linkedin.com/in/hugolopezblanco/)
